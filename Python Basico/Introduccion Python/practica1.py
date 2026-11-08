@@ -1,0 +1,6 @@
+print("Este es mi primer codigo en Python")
+print("Practicando Python con Visual Studio Code")
+print("Estudiando en la academia Lyther")
+print("Disfrutando del proceso de aprendizaje")
+print("Continuando con la practica")
+print("Mejorando mis habilidades en Python")    
