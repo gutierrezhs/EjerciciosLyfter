@@ -1,0 +1,7 @@
+print(1+1)
+print(90-430)
+print(4*5)
+print(50/10)
+print(2**3)
+print(10%3)
+print(7//2)
